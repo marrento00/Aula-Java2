@@ -12,9 +12,11 @@ public class Main {
         System.out.println("Salario liquido: " + administrador.calcularImposto());
         System.out.println();
 
+        /*
         Fornecedor fornecedor = new Fornecedor("Jose", "Rua A", "Sao Paulo", "Paulista", "93992382", 1233, 123);
         System.out.println(fornecedor);
         System.out.println("Saldo " + fornecedor.obterSaldo());
         System.out.println();
+         */
     }
 }
