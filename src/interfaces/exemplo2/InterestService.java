@@ -11,4 +11,5 @@ public interface InterestService{
         }
         return amount * Math.pow(1.0+getInterestRate()/100, months);
     }
+
 }
