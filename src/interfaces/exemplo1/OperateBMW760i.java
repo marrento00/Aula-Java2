@@ -1,6 +1,6 @@
-package interfaces;
+package interfaces.exemplo1;
 
-public class OperateBMW760i implements OperateCar{
+public class OperateBMW760i implements OperateCar {
 
     @Override
     public int direcao(Direcao direcao, double raio, double velocidadeInicial, double velocidadeFinal) {

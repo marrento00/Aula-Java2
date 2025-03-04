@@ -1,4 +1,4 @@
-package interfaces;
+package interfaces.exemplo1;
 
 public interface OperateCar {
     int direcao(Direcao direcao, double raio, double velocidadeInicial, double velocidadeFinal);
